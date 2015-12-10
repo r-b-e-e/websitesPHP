@@ -14,7 +14,8 @@ if (isset($_POST['formData'])) {
 
 
     $from = 'no.reply.rescue.mission@gmail.com';
-    $to = array('rakesh.balan.career@gmail.com', 's.bhargavram@gmail.com');
+//    $to = array('rakesh.balan.career@gmail.com', 's.bhargavram@gmail.com');
+    $to = array('rakesh.balan.career@gmail.com');
 
     $email_subject = "Rescue Mission Game - Contact Form:  $name";
     $email_body = "You have received a new message from the Rescue Mission website.\n"."Here are the details:\n\nName: $name\nEmail: $email_address\nPhone: $phone\nMessage:\n$message\n\n\n***This is an automated response. Please do not reply.***";

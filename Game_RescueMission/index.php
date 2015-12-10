@@ -23,6 +23,8 @@
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
+    <link rel="icon" type="image/png" href="img/icon/tab_icon.png" sizes="64x64">
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -358,7 +360,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/rakesh.JPG" class="img-responsive img-circle" alt="">
+                    <img src="img/team/rakesh.jpg" class="img-responsive img-circle" alt="">
                     <h4>Rakesh Balan Lingakumar</h4>
                     <p class="text-muted">Developer</p>
                     <ul class="list-inline social-buttons">

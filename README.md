@@ -12,8 +12,8 @@ This repository contains all the websites created and/or hosted by Rakesh Balan 
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" target="_blank">
-<img src="https://github.com/rlingaku/Android-Apps/blob/master/ConnectFour/screenshots/Game_MainPage.png" 
+<a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" target="_blank">
+<img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" 
 alt="IMAGE ALT TEXT HERE" width="130" height="200" border="10" /></a> 
 
 > ##### [YOUTUBE LINK - GAMEPLAY 1](http://www.youtube.com/watch?feature=player_embedded&v=UWyWQV5Jqao)

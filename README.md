@@ -28,7 +28,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 > #### Features in the website
 * The website has the login for student and admin.
 * The student can search for internships and apply if eligible.
-* The admin can Search Internships, Add Internship, Delete Internship, Search Internship Placements, Update Internship Placements, Search Students by Skills, Search Skills of a Student, Check Evaluation turn-in status and Update Evaluation turn-in status.
+* <p align="justify">The admin can Search Internships, Add Internship, Delete Internship, Search Internship Placements, Update Internship Placements, Search Students by Skills, Search Skills of a Student, Check Evaluation turn-in status and Update Evaluation turn-in status.</p>
 
 > ##### SCREENSHOTS (Click to Maximize)
 

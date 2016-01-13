@@ -23,13 +23,12 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 <br>
 
 > ### 2. INTERNSHIP TRACKING SYSTEM
-<p align="justify"></p>
+<p align="justify">The web application was developed using PHP with CodeIgniter framework for students to search and apply for internships. The application maintains records of available student internships, students’ current internship program and students’ internship history. MySQL was used as the Database Management System.</p>
 
 > #### Features in the website
-* The website has the online play feature which uses Unity Web Player to play on web browser. 
-* It has the information about the game and also some gameplay videos.
-* It has the ability to download various OS versions of the game. 
-* It also has a mailing feature to get feedback from gamers.
+* The website has the login for student and admin.
+* The student can search for internships and apply if eligible.
+* The admin can Search Internships, Add Internship, Delete Internship, Search Internship Placements, Update Internship Placements, Search Students by Skills, Search Skills of a Student, Check Evaluation turn-in status and Update Evaluation turn-in status.
 
 > ##### SCREENSHOTS (Click to Maximize)
 

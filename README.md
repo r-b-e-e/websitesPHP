@@ -20,3 +20,19 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 <br>
 <br>
+<br>
+
+> ### 2. INTERNSHIP TRACKING SYSTEM
+<p align="justify"></p>
+
+> #### Features in the website
+* The website has the online play feature which uses Unity Web Player to play on web browser. 
+* It has the information about the game and also some gameplay videos.
+* It has the ability to download various OS versions of the game. 
+* It also has a mailing feature to get feedback from gamers.
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
+
+> ##### [SQL SCHEMA](https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/Schema)

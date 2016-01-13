@@ -16,7 +16,7 @@ This repository contains all the websites created and/or hosted by Rakesh Balan 
 <img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [WEBSITE LINK](http://www.youtube.com/watch?feature=player_embedded&v=UWyWQV5Jqao)
+> ##### [WEBSITE LINK](http://http://rescuemissiongame-rlingaku.rhcloud.com/)
 
 <br>
 <br>

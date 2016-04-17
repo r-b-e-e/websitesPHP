@@ -1,3 +1,4 @@
+<!-- Created by Rakesh Balan Lingakumar -->
 <?php
 
 require_once "Mail.php";
@@ -28,7 +29,7 @@ if (isset($_POST['formData'])) {
 
     $smtp = Mail::factory('smtp', array(
         'host' => 'ssl://smtp.gmail.com',
-        'port' => '465',
+        'port' => '25',
         'auth' => true,
         'username' => 'no.reply.rescue.mission@gmail.com',
         'password' => 'rescue.mission'

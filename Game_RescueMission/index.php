@@ -1,3 +1,5 @@
+<!-- Developer: Rakesh Balan Lingakumar -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,25 +14,13 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
     <link rel="icon" type="image/png" href="img/icon/tab_icon.png" sizes="64x64">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 
@@ -39,7 +29,6 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
@@ -76,9 +65,9 @@
                 </li>
             </ul>
         </div>
-        <!-- /.navbar-collapse -->
+        
     </div>
-    <!-- /.container-fluid -->
+    
 </nav>
 
 <!-- Header -->
@@ -194,8 +183,7 @@
                 </a>
                 <div class="portfolio-caption">
                     <br><br>
-<!--                    <h4>Round Icons</h4>-->
-<!--                    <p class="text-muted">Graphic Design</p>-->
+
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -209,8 +197,7 @@
                 </a>
                 <div class="portfolio-caption">
                     <br><br>
-<!--                    <h4>Startup Framework</h4>-->
-<!--                    <p class="text-muted">Website Design</p>-->
+
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -224,8 +211,7 @@
                 </a>
                 <div class="portfolio-caption">
                     <br><br>
-<!--                    <h4>Treehouse</h4>-->
-<!--                    <p class="text-muted">Website Design</p>-->
+
                 </div>
             </div>
         </div>
@@ -241,8 +227,7 @@
                     <img src="img/screenshots/BombActivated.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
-<!--                    <h4>Round Icons</h4>-->
-<!--                    <p class="text-muted">Graphic Design</p>-->
+
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -255,8 +240,7 @@
                     <img src="img/screenshots/CollectKey.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
-<!--                    <h4>Startup Framework</h4>-->
-<!--                    <p class="text-muted">Website Design</p>-->
+
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -269,8 +253,7 @@
                     <img src="img/screenshots/BombDeactivated.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
-<!--                    <h4>Treehouse</h4>-->
-<!--                    <p class="text-muted">Website Design</p>-->
+
                 </div>
             </div>
         </div>
@@ -366,10 +349,10 @@
                     <ul class="list-inline social-buttons">
                         <!--                            <li><a href="#"><i class="fa fa-twitter"></i></a>-->
                         <!--                            </li>-->
-                        <li><a href="https://www.facebook.com/nobossforrb"><i class="fa fa-facebook"></i></a>
+                        <li><a href="https://www.facebook.com/rakeshbalanlingakumar"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <!--                            <li><a href="#"><i class="fa fa-linkedin"></i></a>-->
-                        <!--                            </li>-->
+                        <li><a href="https://www.linkedin.com/in/rakeshbalan"><i class="fa fa-linkedin"></i></a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -436,15 +419,11 @@
                 </div>
             </div>
         </div>
-        <!--            <div class="row">-->
-        <!--                <div class="col-lg-8 col-lg-offset-2 text-center">-->
-        <!--                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>-->
-        <!--                </div>-->
-        <!--            </div>-->
+
     </div>
 </section>
 
-<!-- Clients Aside -->
+
 <aside class="clients">
     <div class="container">
         <div class="row">
@@ -545,9 +524,6 @@
     </div>
 </footer>
 
-<!-- Portfolio Modals -->
-<!-- Use the modals below to showcase details about your portfolio projects! -->
-
 <!-- Portfolio Modal 1 -->
 <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
@@ -561,7 +537,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <!-- Project Details Go Here -->
+
                         <h2>Screen Shot #1</h2>
                         <p class="item-intro text-muted">Player shoots using a gun</p>
                         <img class="img-responsive img-centered" src="img/screenshots/GunShot.png" alt="">
@@ -612,7 +588,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <!-- Project Details Go Here -->
+
                         <h2>Screen Shot #3</h2>
                         <p class="item-intro text-muted">Player collects a coin</p>
                         <img class="img-responsive img-centered" src="img/screenshots/CollectCoins.png" alt="">
@@ -638,7 +614,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <!-- Project Details Go Here -->
+
                         <h2>Screen Shot #4</h2>
                         <p class="item-intro text-muted">Timer Bomb gets activated while opening the door without the key</p>
                         <img class="img-responsive img-centered" src="img/screenshots/BombActivated.png" alt="">
@@ -689,7 +665,6 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <!-- Project Details Go Here -->
                         <h2>Screen Shot #6</h2>
                         <p class="item-intro text-muted">Player diffusing the bomb</p>
                         <img class="img-responsive img-centered" src="img/screenshots/BombDeactivated.png" alt="">
@@ -703,25 +678,15 @@
 </div>
 
 
-<!-- jQuery -->
+
 <script src="js/jquery.js"></script>
-
-<!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
-
-<!-- Plugin JavaScript -->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 <script src="js/classie.js"></script>
 <script src="js/cbpAnimatedHeader.js"></script>
-
-<!-- Contact Form JavaScript -->
 <script src="js/jqBootstrapValidation.js"></script>
 <script src="js/MailFunction.js"></script>
-
-
-<!-- Custom Theme JavaScript -->
 <script src="js/agency.js"></script>
 
 </body>
-
 </html>

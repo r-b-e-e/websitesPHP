@@ -1,3 +1,5 @@
+<!-- Created by Rakesh Balan Lingakumar -->
+
 <?php
 $host="localhost"; //hostname
 $dbusername="root"; //database username

@@ -1,3 +1,5 @@
+<!-- Created by Rakesh Balan Lingakumar -->
+
 $(window).load(function(){
     $("#contactForm").submit(function(event){
         event.preventDefault();

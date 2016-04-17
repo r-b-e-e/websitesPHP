@@ -1,3 +1,6 @@
+<!-- Created by Rakesh Balan Lingakumar -->
+
+
 <?php
 $internshipId=$_GET['varname'];
 
@@ -39,8 +42,6 @@ $internship = 'SELECT io.number_of_openings_left,io.weekly_hours_required,io.job
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
 	
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	</head>
 	<body class="left-sidebar">
 			

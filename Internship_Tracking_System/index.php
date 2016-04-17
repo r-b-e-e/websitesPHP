@@ -1,3 +1,6 @@
+<!-- Created by Rakesh Balan Lingakumar -->
+
+
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -16,8 +19,7 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+
 				<style>
 			div.transbox
 			{

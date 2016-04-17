@@ -1,3 +1,6 @@
+<!-- Created by Rakesh Balan Lingakumar -->
+
+
 <?php
 include ("db.php");
 //session_start();
@@ -21,8 +24,7 @@ include ("db.php");
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		
 	</head>
 	<body class="firstpage">
 
@@ -151,7 +153,7 @@ include ("db.php");
 	
 												<div class="pad-right fleft">
 												<input type="submit" value="Search" name="Search" id="search-button" class="button alt icon fa-file-o"/>
-													 <!-- <a href="search-page.php?display=<?php echo $row['internship_id']?>" id="search-button" class="button alt icon fa-file-o searchlink" style="padding: 5px 10px;">Search</a>  -->
+													 
 												</div>
 
 												<footer>
@@ -308,7 +310,7 @@ include ("db.php");
 								</div>
 								<div class="4u">
 								
-									<!-- Spotlight -->
+									
 										
 								
 								</div>

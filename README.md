@@ -16,7 +16,23 @@ This repository contains all the websites created and/or hosted by Rakesh Balan 
 <img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [WEBSITE LINK](http://www.youtube.com/watch?feature=player_embedded&v=UWyWQV5Jqao)
+> ##### [http://rescuemissiongame-rlingaku.rhcloud.com/](http://rescuemissiongame-rlingaku.rhcloud.com/)
 
 <br>
 <br>
+<br>
+
+> ### 2. INTERNSHIP TRACKING SYSTEM
+<p align="justify">The web application was developed using PHP with CodeIgniter framework for students to search and apply for internships. The application maintains records of available student internships, students’ current internship program and students’ internship history. MySQL was used as the Database Management System.</p>
+
+> #### Features in the website
+
+* <p align="justify">The website has the login for student and admin.</p>
+* <p align="justify">The student can search for internships and apply if eligible.</p>
+* <p align="justify">The admin can Search Internships, Add Internship, Delete Internship, Search Internship Placements, Update Internship Placements, Search Students by Skills, Search Skills of a Student, Check Evaluation turn-in status and Update Evaluation turn-in status.</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
+
+> ##### [SQL SCHEMA](https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/Schema)

@@ -38,4 +38,4 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 <a href="https://github.com/r-b-e-e/websitesPHP/blob/master/Internship_Tracking_System/screenshot/front.png" target="_blank"><img src="https://github.com/r-b-e-e/websitesPHP/blob/master/Internship_Tracking_System/screenshot/front.png" alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> <a href="https://github.com/r-b-e-e/websitesPHP/blob/master/Internship_Tracking_System/EERD%20Diagram/EERD.png" target="_blank"><img src="https://github.com/r-b-e-e/websitesPHP/blob/master/Internship_Tracking_System/EERD%20Diagram/EERD.png" alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [SQL SCHEMA](https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Internship_Tracking_System/Schema)
+> ##### [SQL SCHEMA](https://github.com/r-b-e-e/websitesPHP/blob/master/Internship_Tracking_System/Schema/)

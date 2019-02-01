@@ -12,11 +12,14 @@ This repository contains all the websites created and/or hosted by Rakesh Balan 
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" target="_blank">
-<img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" 
+<a href="https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" target="_blank">
+<img src="https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Game_RescueMission/screenshot/mainpage.png" 
 alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [http://rescuemissiongame-rlingaku.rhcloud.com/](http://rescuemissiongame-rlingaku.rhcloud.com/)
+> ##### Gameplay
+[GamePlay1](https://www.youtube.com/watch?v=UWyWQV5Jqao)
+[GamePlay2](https://www.youtube.com/watch?v=D5-q1Z_vjhw)
+[GamePlay3](https://www.youtube.com/watch?v=0rc66RlLA8s)
 
 <br>
 <br>
@@ -33,6 +36,6 @@ alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a>
 
 > ##### SCREENSHOTS (Click to Maximize)
 
-<a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> <a href="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
+<a href="https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png" target="_blank"><img src="https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Internship_Tracking_System/screenshot/front.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> <a href="https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png" target="_blank"><img src="https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Internship_Tracking_System/EERD Diagram/EERD.png"alt="IMAGE ALT TEXT HERE" width="300" height="200" border="10" /></a> 
 
-> ##### [SQL SCHEMA](https://github.com/rlingaku/Projects_Website_PHP/blob/master/Internship_Tracking_System/Schema)
+> ##### [SQL SCHEMA](https://github.com/r-b-e-e/Projects_Website_PHP/blob/master/Internship_Tracking_System/Schema)
